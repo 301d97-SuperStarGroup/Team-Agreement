@@ -7,8 +7,8 @@ Sarah: Pacific time zone
 
 ## Cooperation Plan
 **1. What are the key strengths of each person on the team?**
-- Dajon: 
-- Laurence: 
+- DaJon: CSS, server creation
+- Laurence: Team-Player
 - Reece: communication, collaboration, time-management
 - Sarah: positive attitude, organizational skills, moderate coding skills,
 
@@ -16,10 +16,10 @@ Sarah: Pacific time zone
 Being aware of strengths and offering to step up or offer help in areas we are strongest.
 
 **3. In which professional competencies do you each want to develop greater strength?**
-- Dajon: 
-- Laurence: 
+- DaJon: FrontEnd development and interoperation between server and user interface
+- Laurence: FrontEnd development and server creation
 - Reece: FrontEnd development and server creation
-- Sarah: coding in general, fluidity between JS and CSS
+- Sarah: coding in general, React boot-strap and styling of components
 
 **4. Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
  - Communication: timeblock our days and keep open lines of communication
@@ -51,15 +51,14 @@ Being aware of strengths and offering to step up or offer help in areas we are s
 ---------------------------
 ## Communication Plan
 **1. What hours will you be available to communicate?**
-- Cameron: 9a-12p, 2-7p pacific
-- Ryan A.: 7a-12p, 5p-8p hawaii
-- Stephen: MTW class time,   Th not available 2:30-4pm arizona
-- Davey: Class times, usually up late; has a Th evening meeting; surgery on Tuesday
+- DaJon: 24/7 (don't wake me up though)
+- Laurence: 24/7
+- Reece: 24/7 (you can wake me up)
 - Sarah: Class times, can be available until 8pm pacific when needed
 
 **2. What platforms will you use to communicate (ie. Slack, phone …)?**
 - Slack
-- Remo if we need to share multiple screens
+- Discord if needed
 - Zoom if needed
 
 **3. How often will you take breaks?**
@@ -104,5 +103,5 @@ Everyone is added as an owner of the organization.
 **4. Will you be using a PR review workflow? If so, consider:
 - How many people must review a PR?: 2 people minimum
 - Who merges PRs?: Someone will volunteer each morning when we are all together
-- How often will you merge?: Every day during our 9:30am (pacific) meetings.
+- How often will you merge?: Every day during our 9:00am (pacific) meetings.
 - How will you communicate that it’s time to merge?: Scheduling for every morning.
