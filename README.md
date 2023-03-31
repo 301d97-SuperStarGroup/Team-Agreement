@@ -1,8 +1,11 @@
 # Team Agreement
 
 Dajon: Pacific time zone
+
 Laurence: Pacific time zone
+
 Reece: Pacific time zome
+
 Sarah: Pacific time zone
 
 ## Cooperation Plan
